@@ -1,3 +1,25 @@
 .nav-link{
     background-color: #fffdfa;
 }
+.model-button{
+    background-color: #d42727;
+    border-radius: 5px;
+    border: gray;
+    color: #dddada;
+}
+.orange-bg{
+    background-color: #fceae8;
+    padding-left: 20px;
+}
+h1{
+    color:chocolate;
+}
+p{
+    color: #119960;
+}
+.carousel-item{
+    padding: 20px 20px;
+}
+.price{
+    color: #FF136F;
+}
