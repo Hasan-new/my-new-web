@@ -81,3 +81,9 @@ p{
     background-color: white;
     border-top: none;
 }
+#subscribe{
+    width: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
