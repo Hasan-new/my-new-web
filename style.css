@@ -99,3 +99,9 @@ p{
 footer{
     text-align: center;
 }
+.under{
+    color: red;
+    text-align: center;
+    margin-bottom: 100px;
+    font-size: 50px;
+}
